@@ -1,5 +1,7 @@
 # 결정 기록: 훈련이 자기보고를 억누르는가
 
+[English](2026-11-18-suppressed-self-report.en.md) | **한국어**
+
 - 날짜: 2026-11-18
 - 출발점: Ackerman & Zhou (2026), "Do LLMs Have Desires?"를 읽고 나눈 대화
 

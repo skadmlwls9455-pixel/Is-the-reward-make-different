@@ -1,5 +1,7 @@
 # 결정 기록: 실험 1 — OLMo 단계별 자기보고 비교 설계
 
+[English](2026-11-19-olmo-stage-design.en.md) | **한국어**
+
 - 날짜: 2026-11-19
 - 출발점: [2026-11-18 결정](2026-11-18-suppressed-self-report.md)에서 고른 최소 시작(OLMo + Mistral)을 구체화
 
