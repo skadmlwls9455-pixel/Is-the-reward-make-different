@@ -105,5 +105,9 @@
 
 ## 5. 다음 할 일
 - [ ] 애커먼 논문 2부 이후 정독 (노력 독려, 역할극, 유해성 결과)
-- [ ] 각 가설의 예측을 실험 전에 미리 적기
-- [ ] 실험 A부터 파일럿 (모델 1~2개, 소규모)
+- [x] 각 가설의 예측을 실험 전에 미리 적기 → [decisions/2026-11-18-suppressed-self-report.md](decisions/2026-11-18-suppressed-self-report.md)
+- [ ] 최소 시작: OLMo + Mistral. "실행 가능하다는 확신"이 생기면 정신승리를 뒤집는지 확인
+  - [ ] 로컬(M3 Pro 18GB): 1~3B 모델로 J-lens 연습 (anthropics/jacobian-lens, avalur/JLens 참고)
+  - [ ] 행동 실험: Ministral 8B/14B, OLMo 3 7B (양자화)
+  - [ ] OLMo 단계별(베이스 → SFT → DPO → RL) 자기보고 비교
+- [ ] 윤리 원칙 2번과 충돌하는 설계(탐욕 비난) 수정 여부 결정
